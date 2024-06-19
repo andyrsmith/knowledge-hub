@@ -30,3 +30,31 @@ node *first_node = n;
 ```
 
 First node needs to be stored in a variable and then will be able to access each other node from there.
+
+## Reading and Searching data
+
+In order to read or search for data in a linked list we must transverse the entire list starting with the first node then proceed to the next node and so on.
+
+The best case is that the node we want is the first node, but worst case is that it could be at the end.
+
+Big O Notion: O(N)
+
+## Insertion
+
+Inserting data is where a linked list has an advantage.  
+
+To insert we just create the new node.  The new node's next node would be the current first node and then the new node would become the new first node.
+
+Big O Notion: O(1)
+
+Inserting anywhere else does require us to transverse the list to the spot where we need to insert the data.  Once we find the spot to insert we need to update the previous node's next to be the new node and the new node's next would have to the what use to be the previous nodes next node. 
+
+Since we have to transverse what could be the entire linked list the this would be a Big O of (N)
+
+## Deletion
+
+Similar to insertion deleting at the beginning is said to have a Big O(1).  All that is needed is to update the first node to be the deleted node's next.
+
+Deleting anywhere else and we again have to travel through each node to get to the node to be deleted.
+
+So again this could be O(N)
