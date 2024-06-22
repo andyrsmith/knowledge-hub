@@ -12,7 +12,7 @@
 - Makefile
 - File Management
 - [Malloc](malloc.md)
-- Pointers
+- [Pointers](pointers.md)
 - Functions
 - Strings
 
