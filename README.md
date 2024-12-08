@@ -6,4 +6,6 @@ This will be a place where I enter information that I already know or informatio
 
 - Algorithms and Data Structures
 - [C Programming](c-programming/README.md)
+- [Rust](rust/README.md)
+- [Web Development](web-development/README.md)
 

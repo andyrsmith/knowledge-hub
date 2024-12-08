@@ -15,4 +15,5 @@
 - [Pointers](pointers.md)
 - Functions
 - Strings
+- [Arrays](arrays.md)
 
