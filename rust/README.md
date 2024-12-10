@@ -6,3 +6,5 @@
 - [println](println.md)
 - [variables](variables.md)
 - [stdin](stdin.md)
+- [Arrays](arrays.md)
+- [String vs str](string_str.md)
