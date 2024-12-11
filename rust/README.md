@@ -8,3 +8,6 @@
 - [stdin](stdin.md)
 - [Arrays](arrays.md)
 - [String vs str](string_str.md)
+- [struct](struct.md)
+- [iter](iter.md)
+- [match](match.md)
