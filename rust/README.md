@@ -11,3 +11,5 @@
 - [struct](struct.md)
 - [iter](iter.md)
 - [match](match.md)
+- [Vec](vec.md)
+- [Enum](enum.md)
