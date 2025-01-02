@@ -13,3 +13,4 @@
 - [match](match.md)
 - [Vec](vec.md)
 - [Enum](enum.md)
+- [WASM - Build Program to the Web](wasm.md)
