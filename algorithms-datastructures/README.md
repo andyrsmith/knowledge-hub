@@ -5,3 +5,4 @@
 - [Queues](queues.md)
 - [Binary Search Tree](binary-search-tree.md)
 - [Binary Heaps](binary-heaps.md)
+- [Hash/Maps](hash-maps.md)
